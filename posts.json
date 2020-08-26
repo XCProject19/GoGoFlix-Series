@@ -3,7 +3,7 @@
 [
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "Completed",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -13,7 +13,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "OnGoing",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -23,7 +23,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "Completed",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -33,7 +33,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "OnGoing",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -43,7 +43,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "Completed",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -53,7 +53,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "OnGoing",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -63,7 +63,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "Completed",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -73,7 +73,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "OnGoing",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -83,7 +83,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "Completed",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
@@ -93,7 +93,7 @@
 ,
 {
 "title" : "Title",
-"status" : "Completed,OnGoing",
+"status" : "OnGoing",
 "date" : "2019",
 "cover" : "Horizontal",
 "image" : "Vertical",
